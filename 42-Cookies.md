@@ -1,3 +1,5 @@
+Description
+Who doesn't love cookies? Try to figure out the best one. http://mercury.picoctf.net:29649/
 **Solución**
 
 1. En Kali abre Firefox con FoxyProxy apuntando a Burp (o usa DevTools si prefieres no usar Burp).
