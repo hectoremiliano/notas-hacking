@@ -1,3 +1,5 @@
+Description
+Find the flag being held on this server to get ahead of the competition http://mercury.picoctf.net:47967/
 **Solución**
 
 1. En Kali Linux abre Firefox y configura FoxyProxy para usar el proxy de Burp (por defecto 127.0.0.1:8080).
