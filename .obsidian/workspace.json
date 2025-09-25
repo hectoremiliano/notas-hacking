@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/45-JaWT Scratchpad.md",
+                "file": "picoCTF/46-More SQLi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "45-JaWT Scratchpad"
+              "title": "46-More SQLi"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "e7106969665836fc",
   "lastOpenFiles": [
-    "picoCTF/44-Irish-Name-Repo 1.md",
     "picoCTF/45-JaWT Scratchpad.md",
+    "picoCTF/46-More SQLi.md",
+    "picoCTF/44-Irish-Name-Repo 1.md",
     "PLANTILLA.md",
     "README.md",
     "Sin título 1.canvas",
